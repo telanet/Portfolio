@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@400;500;700&family=Lato:wght@100&family=Open+Sans:wght@300&family=Poppins&family=Roboto:ital,wght@0,700;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family='Crete'+Round&family=Inter:wght@400;500;700&family=Lato:wght@100&family=Open+Sans:wght@300&family=Poppins&family=Roboto:ital,wght@0,700;1,100&display=swap');
 
 html,
 body {
@@ -149,10 +149,6 @@ body {
   box-sizing: border-box;
 }
 
-img {
-  width: 100%;
-}
-
 .work {
   display: flex;
   align-items: center;
@@ -160,8 +156,10 @@ img {
   justify-content: center;
 }
 
-.desk-img {
-  margin: 0 12px;
+.work img {
+  width: 327px;
+  height: 327px;
+  margin: 0 24px 0 24px;
 }
 
 .mobile-img {
@@ -184,18 +182,15 @@ img {
 }
 
 .title {
-  height: 83px;
-  font-family: Crete RoundArial, Arial, Helvetica, sans-serif;
+  font-family: 'Crete' RoundArial, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 40px;
-  line-height: 52px;
-  padding-bottom: 24px;
   color: #091e42;
 }
 
 .stories {
-  font-family: Crete RoundArial, Arial, Helvetica, sans-serif;
+  font-family: 'Crete' RoundArial, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 32px;
@@ -252,8 +247,9 @@ img {
 }
 
 .pst-btn {
+  padding: 12px;
   background: #ff6b00;
-  margin: 12px 12px;
+  margin: 12px 0 0 5px;
   border: none;
   height: 48px;
   font-family: Inter, Arial, Helvetica, sans-serif;
@@ -266,8 +262,6 @@ img {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  max-width: 100%;
-  padding: 5px;
   text-align: center;
   box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
 }
@@ -278,7 +272,7 @@ img {
   height: 81px;
   left: 16px;
   top: 8px;
-  font-family: Crete Round, Arial, Helvetica, sans-serif;
+  font-family: 'Crete' Round, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 32px;
@@ -404,7 +398,7 @@ ul {
   margin: 0;
   width: 327px;
   height: 79px;
-  font-family: Crete Round, Arial, Helvetica, sans-serif;
+  font-family: 'Crete' Round, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 65px;
@@ -727,7 +721,6 @@ button:disabled {
 .technologies {
   display: flex;
   align-items: center;
-  justify-content: center;
   flex-direction: column;
   text-align: center;
   margin-block-start: 0;
@@ -735,11 +728,7 @@ button:disabled {
   padding-inline-start: 0;
 }
 
-.technologies ul li {
-  text-align: left;
-}
-
-.technologies li > ul > li {
+.technologies ul > li {
   margin-bottom: 32px;
   height: 24px;
   font-family: 'Inter', Arial, Helvetica, sans-serif;
@@ -760,7 +749,7 @@ button:disabled {
   display: block;
   margin-block-start: 0;
   margin-block-end: 0;
-  padding: 44px 0 44px 0;
+  padding: 44px 0 44px 30px;
 }
 
 #list-menu li {
@@ -788,12 +777,12 @@ button:disabled {
 
 .myProjects {
   background: #fff;
-  width: 375px;
+  width: 327px;
   padding-bottom: 0;
 }
 
 .project {
-  margin: 0 24px 36px 24px;
+  margin: 0 0 36px 24px;
   background: linear-gradient(180.45deg, rgba(50, 50, 38, 0) 0.65%, rgba(38, 38, 38, 0.9) 75.94%), url(images/Placeholder.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -810,7 +799,7 @@ button:disabled {
 }
 
 .projectHeader h2 {
-  font-family: 'Crete Round', serif;
+  font-family: ''Crete' Round', serif;
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
