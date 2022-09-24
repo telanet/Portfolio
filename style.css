@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@400;500;700&family=Lato:wght@100&family=Open+Sans:wght@300&family=Poppins&family=Roboto:ital,wght@0,700;1,100&display=swap');
 html,
 body {
   margin: 0;
@@ -8,9 +9,9 @@ body {
 .nav-bar {
   display: flex;
   background-color: #3c3a39;
-  height: 92px;
+  padding: 12px 24px;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .menu-list {
@@ -30,12 +31,13 @@ body {
   margin: 4px 0;
 }
 
-.logo {
+.logo a {
   font-size: 18px;
   font-weight: 700;
+  text-decoration: none;
   color: #fff;
   text-align: center;
-}
+ }
 
 .container {
   margin: 0;
@@ -52,7 +54,7 @@ body {
   justify-content: center;
   background-position: right bottom;
   background-repeat: no-repeat;
-  background-image: url(/images/illustration.png);
+  background-image: url(images/illustration.png);
 }
 
 .intro h1 {
