@@ -1,9 +1,8 @@
 # Project Name
 
--Portfolio: Mobile Version
+-Portfolio: Contact and footer section
 
-![screenshot](images/screenshot4.png)
-![screenshot](./images/screenshot5.png)
+![screenshot](images/screenshot3.png)
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
@@ -29,7 +28,12 @@
 👤 **Author1**
 
 - GitHub: [@telanet](https://github.com/telanet)
+
 - Twitter: [@Ben54647605](https://twitter.com/Ben54647605)
+
+👤 **Author2**
+
+- GitHub: [@ofarouq310](https://github.com/ofarouq310)
 
 ## 🤝 Contributing
 
