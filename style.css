@@ -403,17 +403,7 @@ ul {
   color: #fff;
 }
 
-.form {
-  margin: 73px 0;
-  width: 100%;
-}
 
-.form > ul {
-  display: flex;
-  flex-direction: column;
-  padding: 0;
-  margin: 0;
-}
 
 .footer-social {
   display: flex;
@@ -425,16 +415,7 @@ ul {
   padding-right: 18px;
 }
 
-.form > ul > li {
-  margin-bottom: 39px;
-  flex: 1;
-}
 
-.form input {
-  border: none;
-  width: 100%;
-  margin: 0 16px;
-}
 
 .blur {
   filter: blur(5px);
