@@ -1,8 +1,8 @@
 # Project Name
 
--Portfolio: Contact and footer section
+-Portfolio: Animations and transitions exercise
 
-![screenshot](images/screenshot3.png)
+![screenshot](images/app_screenshot.png)
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
@@ -28,12 +28,8 @@
 👤 **Author1**
 
 - GitHub: [@telanet](https://github.com/telanet)
-
 - Twitter: [@Ben54647605](https://twitter.com/Ben54647605)
 
-👤 **Author2**
-
-- GitHub: [@ofarouq310](https://github.com/ofarouq310)
 
 ## 🤝 Contributing
 
@@ -47,7 +43,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Microverse
 - Inspiration
 - etc
 
