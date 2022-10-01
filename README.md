@@ -1,11 +1,8 @@
 # Project Name
 
--Portfolio: Desktop version
+-Portfolio: Animations and transitions exercise
 
 ![screenshot](images/app_screenshot.png)
-![screenshot](images/screenshot6.png)
-![screenshot](images/screenshot4.png)
-
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
