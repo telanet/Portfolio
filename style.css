@@ -114,9 +114,10 @@ h2.section-title {
 }
 
 .description-text {
-  font-family: 'Poppins', sans-serif;
-  font-size: 16px;
-  line-height: 24px;
+  font-family: 'Inter', 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
   color: #fff5e1;
 }
 
@@ -497,7 +498,8 @@ footer .bottom-navigator {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 1fr);
   }
-}
+
+ }
 
 @media screen and (min-width: 992px) {
   h1.section-title {
@@ -538,7 +540,7 @@ footer .bottom-navigator {
   }
 
   .nav-bar .menu-icon {
-    display: none;
+    display: block;
   }
 
   .page-section {
