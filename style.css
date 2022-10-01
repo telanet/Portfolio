@@ -85,14 +85,16 @@ h2.section-title {
 }
 
 .h-rule {
-  width: 100%;
+  width: 794px;
+  margin-right: 30px;
+  padding: 0;
   border: none;
   height: 0.25px;
   background-color: #212121;
 }
 
 .box-join-title {
-  width: 100%;
+  width: 794px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -494,10 +496,6 @@ footer .bottom-navigator {
   .works-section .grid-container {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 1fr);
-  }
-
-  .hamburger-menu {
-    display: block;
   }
 }
 
