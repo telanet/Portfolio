@@ -1,8 +1,8 @@
 # Project Name
 
--Portfolio: Contact and footer section
+-Portfolio: Project Deploy
 
-![screenshot](images/screenshot3.png)
+https://telanet.github.io/Portfolio/
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
