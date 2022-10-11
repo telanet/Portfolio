@@ -7,6 +7,20 @@ body {
   overflow-x: hidden;
 }
 
+.menu-desktop {
+  display:flex;
+}
+
+.menu-desktop li {
+  padding: 10px;
+
+}
+
+#hamburger {
+  display: none;
+}
+
+
 .nav-bar {
   display: flex;
   background-color: #3c3a39;
