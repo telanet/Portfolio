@@ -533,6 +533,16 @@
     .works-section .grid-container {
       grid-template-columns: repeat(2, 1fr);
       grid-template-rows: repeat(3, 1fr);
+      
+    }
+    .cancel-btn {
+      display: none;
+    }
+    .menu-btn {
+      display:none;
+    }
+    .link-text {
+      color:white
     }
   }
   
