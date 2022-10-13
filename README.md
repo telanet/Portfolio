@@ -7,11 +7,35 @@
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
 
-## Setup
--To setup the webpage in your local up in the repo page: click on code (dropdown list) > Download as ZIP
+## Getting Started
 
-# Deployment
--To run the project open folder (after extraction) then run index.html
+
+- To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- You only need a browser to run the html file in.
+
+### Setup
+
+- Create a new folder to store the files in.
+
+### Install
+
+- Open your command prompt or terminal and run.
+- git clone https://github.com/telanet/Portfolio.git .
+
+
+### Run tests
+
+- To run tests run :
+- npx hint .
+- npx stylelint "**/*.{css,scss}"
+
+### Deployment
+
+- Project is deployed using
+- git push <branch_name>
 
 ## Built With
 
