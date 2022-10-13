@@ -1,8 +1,8 @@
 # Project Name
 
--Portfolio: Project Deploy
+-Portfolio: Mobile Menu
 
-https://telanet.github.io/Portfolio/
+![screenshot](images/screenshot-1.png)
 
 # Getting Started
 -To get a local copy up and running follow these simple example steps.
@@ -33,7 +33,7 @@ https://telanet.github.io/Portfolio/
 
 👤 **Author2**
 
-- GitHub: [@ofarouq310](https://github.com/ofarouq310)
+- GitHub: [@Cluab](https://github.com/ofarouq310)
 
 ## 🤝 Contributing
 
