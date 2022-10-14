@@ -152,7 +152,7 @@
   .popupcontbodyrightbtns {
     justify-content: flex-start;
     position: absolute;
-    bottom: 32%;
+    top: calc(50% - 48px/2 + 264.5px);    
   }
 
   .popupcontbodyrightbtns button {
