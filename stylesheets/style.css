@@ -429,16 +429,16 @@ nav.sticky .menu-btn {
 }
 
 .aboutme-section .skills .languages-skills span {
-  background-image: url("../icons/rectangle-roted.png");
+  background-image: url("../images/rectangle-roted.png");
   background-size: 22px 22px;
 }
 
 .aboutme-section .skills .frameworks-skills span {
-  background-image: url("../icons/rectangle.png");
+  background-image: url("../images/rectangle.png");
 }
 
 .aboutme-section .skills .additional-skills span {
-  background-image: url("../icons/disc.png");
+  background-image: url("../images/disc.png");
 }
 
 .aboutme-section .skills .ul-sublist {
